@@ -1,5 +1,5 @@
-# pQuaint
+# tastette
 A cooking recipe Android application for software engineer practices.
 
 Etymology:
-piquant -> p + (Quaint)
+tastette -> tasty + ette
